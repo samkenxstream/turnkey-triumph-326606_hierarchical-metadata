@@ -15,7 +15,7 @@
   "devDependencies": {
     "jest": "^23.6.0",
     "nock": "^13.0.4",
-    "probot": "^10.9.0",
+    "probot": "^12.3.0",
     "semantic-release": "^17.1.2",
     "standard": "^10.0.3"
   },
